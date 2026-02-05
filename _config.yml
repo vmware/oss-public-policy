@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: Open Source Policies
+description: Legal terms for contributing to VMware projects.
+permalink: /:title/
